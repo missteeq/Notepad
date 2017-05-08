@@ -1,0 +1,2 @@
+c:\users\hazel\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\Hazel\Documents\Visual Studio 2013\Projects\MyNotepad\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config

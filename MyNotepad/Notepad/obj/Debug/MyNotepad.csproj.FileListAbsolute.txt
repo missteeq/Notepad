@@ -1,0 +1,12 @@
+C:\Users\Hazel\Documents\Visual Studio 2013\Projects\MyNotepad\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\Hazel\Documents\Visual Studio 2013\Projects\MyNotepad\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\Hazel\Documents\Visual Studio 2013\Projects\MyNotepad\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\Hazel\Documents\Visual Studio 2013\Projects\MyNotepad\WindowsFormsApplication6\obj\Debug\MyNotepad.csprojResolveAssemblyReference.cache
+C:\Users\Hazel\Documents\Visual Studio 2013\Projects\MyNotepad\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.MyNotepad.resources
+C:\Users\Hazel\Documents\Visual Studio 2013\Projects\MyNotepad\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\Hazel\Documents\Visual Studio 2013\Projects\MyNotepad\WindowsFormsApplication6\obj\Debug\MyNotepad.csproj.GenerateResource.Cache
+C:\Users\Hazel\Documents\Visual Studio 2013\Projects\MyNotepad\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\Hazel\Documents\Visual Studio 2013\Projects\MyNotepad\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\Hazel\Documents\Visual Studio 2013\Projects\MyNotepad\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Find.resources
+C:\Users\Hazel\Documents\Visual Studio 2013\Projects\MyNotepad\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Replace.resources
+C:\Users\Hazel\Documents\Visual Studio 2013\Projects\MyNotepad\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.About.resources
